@@ -174,11 +174,6 @@ Todos los efectos pueden ajustarse desde el código:
 
 ¡Amamos las contribuciones! Aquí cómo puedes ayudar:
 
-### 🐛 **Reportar Errores**
-1. Revisa los [issues existentes](https://github.com/alejandro-mendieta/cosmic-brick-breaker/issues)
-2. Crea un nuevo issue con el formato adecuado
-3. Incluye capturas de pantalla y pasos para reproducir
-
 ### 💡 **Nuevas Características**
 1. **Discute** tu idea en los Discussions
 2. **Fork** el repositorio
