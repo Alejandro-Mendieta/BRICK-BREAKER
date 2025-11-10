@@ -225,7 +225,7 @@ Un agradecimiento especial a la comunidad de Pygame y a todos los beta testers q
 
 **¿Tienes lo que se necesita para conquistar los 100 niveles cósmicos?**
 
-[![Jugar Ahora](https://img.shields.io/badge/🚀_Jugar_Brick_Breaker-Play_Now-purple?style=for-the-badge&logo=game)](https://github.com/alejandro-mendietacosmic-brick-breaker)
+[![Jugar Ahora](https://img.shields.io/badge/🚀_Jugar_Brick_Breaker-Play_Now-purple?style=for-the-badge&logo=game)](https://github.com/alejandro-mendieta/brick-breaker)
 
 *¡Que la fuerza cósmica te acompañe!* 🌌
 
