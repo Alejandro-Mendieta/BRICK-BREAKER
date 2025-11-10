@@ -1,8 +1,8 @@
 # 🌌Brick Breaker🚀
 
-<img width="901" height="636" alt="image" src="https://github.com/Alejandro-Mendieta/BRICK-BREAKER/blob/main/assets/FOTOS/FOTO1.png?raw=true
+<img width="901" height="636" alt="image" src="https://github.com/Alejandro-Mendieta/BRICK-BREAKER/blob/main/assets/FOTOS/FOTO1.png?raw=true/>
 
-![Brick Breaker](https://img.shields.io/badge/Game-Cosmic%20Brick%20Breaker-purple)
+![Brick Breaker](https://img.shields.io/badge/Game-%20Brick%20Breaker-purple)
 ![Version](https://img.shields.io/badge/Version-2.0-cyan)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pygame](https://img.shields.io/badge/Pygame-2.5.2-green)
